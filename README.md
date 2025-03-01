@@ -1,5 +1,7 @@
 # Deploy Ollama on EC2
 
+# install terraform from here[https://developer.hashicorp.com/terraform/install?product_intent=terraform]
+
 This setup is ideal for leveraging open-sourced local Large Language Model (LLM) AI capabilities within the cloud, ensuring data privacy, customizability, regulatory compliance, and cost-effective AI solutions
 
 # LLM: The Evolution from Traditional Models
